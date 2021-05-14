@@ -8,6 +8,6 @@ public class Area {
         System.out.println("Enter a radius: ");
         double redius=input.nextDouble();
         double areaOfCircle = Circle.getArea(redius);
-//        System.out.println("The area of a circle of radius "+redius+" is : " +areaOfCircle);
+        System.out.println("The area of a circle of radius "+redius+" is : " +areaOfCircle);
     }
 }
